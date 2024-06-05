@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
+        vector<int> minFreq(26,INT_MAX);
         vector<string> res;
-
-        sort(words.begin(),words.end());
-        for(char c: words[0]){
-            bool common = true;
-            for(int i = 1;i<words.size();i++){
-                if(words[i].find(c) == string::npos){
-                    common = false;
-                    break;
-                }
-                else{
-                    words[i].erase(words[i].find(c),1);
-                }
+        for(const string& word: words){
+            vector<int> freq(26,0);
+            for(char c:word){
+                freq[c - 'a']++;
             }
-            if(common){
-                res.push_back(string(1,c));
+            for(int i = 0;i<26;i++){
+                minFreq[i] = min(minFreq[i], freq[i]);;
+            }
+        }
+
+        for(int i = 0;i<26;i++){
+            while(minFreq[i] > 0){
+                res.push_back(string(1,'a'+ i));
+                minFreq[i]--;
             }
         }
         return res;

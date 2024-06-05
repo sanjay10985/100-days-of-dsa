@@ -10,7 +10,7 @@ public:
                 freq[c - 'a']++;
             }
             for(int i = 0;i<ALPHABET_SIZE;i++){
-                minFreq[i] = min(minFreq[i], freq[i]);;
+                minFreq[i] = min(minFreq[i], freq[i]);
             }
         }
 

@@ -4,11 +4,8 @@ public:
         vector<int> arrayOfIndices;
         for(int i = 0;i<words.size();i++){
             string word = words[i];
-            for(char c: word){
-                if(c == x){
-                    arrayOfIndices.push_back(i);
-                    break;
-                }
+            if(words[i].find(x) != std::string::npos){
+                arrayOfIndices.push_back(i);
             }
         }
         return arrayOfIndices;

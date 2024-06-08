@@ -5,13 +5,13 @@ public:
         int mul = 1;
         int sum = 0;
         while(n){
-            arr.push_back(n%10);
+            int digit = n%10;
+            sum+= digit;
+            mul*=digit;
             n /= 10;
+
         }
-        for(int num:arr){
-            sum+= num;
-            mul*=num;
-        }
+     
         return mul-sum;
     }
 };

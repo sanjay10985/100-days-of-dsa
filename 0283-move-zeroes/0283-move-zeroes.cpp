@@ -6,7 +6,7 @@ public:
         while(j<n){
             if(nums[j] !=0 ){
                 if(nums[i] == 0){
-                swap(nums,i,j);
+                swap(nums[i],nums[j]);
                 }
                 i++;
             }
@@ -14,9 +14,4 @@ public:
         }
     }
 
-    void swap(vector<int>& nums,int a,int b){
-        int temp = nums[a];
-        nums[a] = nums[b];
-        nums[b] = temp;
-    }
 };

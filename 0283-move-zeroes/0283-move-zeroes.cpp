@@ -5,7 +5,7 @@ public:
         int i = 0,j=0;
         while(j<n){
             if(nums[j] !=0 ){
-                if(i!=j){
+                if(nums[i] == 0){
                 swap(nums,i,j);
                 }
                 i++;

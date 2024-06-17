@@ -1,17 +1,12 @@
-class Solution {
-public:
-    int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        unordered_map<int,int> map;
-        for(int i = 0;i<n;i++){
-            map[nums[i]] = i;
-        }
-
-        for(int i = 0;i<n;i++){
-            if(!map.count(i)){
-                return i;
+    class Solution {
+    public:
+        int missingNumber(vector<int>& nums) {
+            int n = nums.size();
+            int sum = (n * (n + 1))/2;
+            int arraySum = 0;
+            for(int num:nums){
+                arraySum += num;
             }
+            return sum-arraySum;
         }
-        return n;
-    }
-};
+    };

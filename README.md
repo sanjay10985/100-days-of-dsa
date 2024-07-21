@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1293-three-consecutive-odds) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [1205-defanging-an-ip-address](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1205-defanging-an-ip-address) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |

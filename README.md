@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [1205-defanging-an-ip-address](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |

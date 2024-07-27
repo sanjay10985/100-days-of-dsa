@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1580-shuffle-the-array) |
+| [2058-concatenation-of-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2058-concatenation-of-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2058-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |

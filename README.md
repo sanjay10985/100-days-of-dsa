@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1651-shuffle-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |

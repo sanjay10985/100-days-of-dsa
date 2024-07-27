@@ -1,14 +1,15 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        int n = 0;
-        for(char stone : stones){
-            for(char jewel : jewels){
-                if(stone == jewel){
-                    n++;
-                }
+        int count = 0;
+
+        for(int i = 0;i<stones.length();i++){
+            char ch = stones[i];
+
+            if(jewels.contains(ch)){
+                count++;
             }
         }
-        return n;
+        return count;
     }
 };

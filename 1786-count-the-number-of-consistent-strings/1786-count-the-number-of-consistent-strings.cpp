@@ -5,8 +5,8 @@ public:
         int ans= 0;
         for(string s: words){
             int correct = true;
-            for(int i = 0;i<s.length();i++){
-                if(compare.find(s[i]) == compare.end()){
+            for(char c: s){
+                if(compare.find(c) == compare.end()){
                     correct = false;
                     break;
                 }

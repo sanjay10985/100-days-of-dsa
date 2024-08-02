@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2058-concatenation-of-array) |
+| [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0782-jewels-and-stones](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -53,8 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

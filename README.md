@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2058-concatenation-of-array) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->

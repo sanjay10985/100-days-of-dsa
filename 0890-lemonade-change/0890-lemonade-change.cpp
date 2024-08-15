@@ -21,10 +21,8 @@ public:
                     ten--;
 
                 }
-               
                 else if(five >= 3){
                     five -= 3;
-
                 }
                 
                 else {

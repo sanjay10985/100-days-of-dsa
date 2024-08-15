@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2058-concatenation-of-array) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

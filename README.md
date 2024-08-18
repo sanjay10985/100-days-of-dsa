@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
 | [2048-build-array-from-permutation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2048-build-array-from-permutation) |
+| [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

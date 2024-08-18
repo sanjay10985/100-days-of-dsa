@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
 | [2048-build-array-from-permutation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2048-build-array-from-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

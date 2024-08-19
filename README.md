@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0724-find-pivot-index) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0724-find-pivot-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

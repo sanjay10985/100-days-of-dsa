@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0724-find-pivot-index) |
+| [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

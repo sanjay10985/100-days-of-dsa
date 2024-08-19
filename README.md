@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0724-find-pivot-index) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
 | ------- |

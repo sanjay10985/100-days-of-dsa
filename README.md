@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
+| [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
+| [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0890-lemonade-change](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |

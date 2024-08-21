@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
+| [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
+| [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |

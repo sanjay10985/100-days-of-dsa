@@ -2,12 +2,24 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
         int n = nums.size();
+        int i = 0,j=n-1;
+        vector<int> result(n);
+        for(int k = n-1;k>=0;k--){
 
-        for(int i = 0; i<n; i++){
-            nums[i] *= nums[i];
+            if(abs(nums[i]) > abs(nums[j])){
+                result[k] = square(nums[i]);
+                i++;
+            }
+            else{
+                result[k] = square(nums[j]);
+                j--;
+            }
+
         }
+        return result;
+    }
 
-        sort(nums.begin(),nums.end());
-        return nums;
+    int square(int n){
+        return n*n;
     }
 };

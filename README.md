@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
+| [0020-valid-parentheses](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0020-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0020-valid-parentheses](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0020-valid-parentheses) |
 ## Tree
 |  |
 | ------- |

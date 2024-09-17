@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 | [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
+| [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 | [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 | [0020-valid-parentheses](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |

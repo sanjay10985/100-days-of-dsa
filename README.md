@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0979-di-string-match) |
 | [0020-valid-parentheses](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |

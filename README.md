@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
+| [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

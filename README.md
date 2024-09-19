@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0792-binary-search) |
 | [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [0792-binary-search](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0792-binary-search) |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
 | [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

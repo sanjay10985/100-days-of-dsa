@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [0001-two-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0792-binary-search) |
+| [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
+| [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |

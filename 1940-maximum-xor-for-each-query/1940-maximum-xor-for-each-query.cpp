@@ -3,18 +3,14 @@ public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
         int n = nums.size();
         int maxValue = (1<<maximumBit) -1;
-        vector<int> maximumXor;
-        int cumulativeXor = 0;
+        vector<int> sub(n);
+        sub[n-1] = nums[0] ^ maxValue;
 
-        for(int num:nums){
-            cumulativeXor ^= num;
+        for(int i = 1;i<n;i++){
+            sub[n-i-1] = nums[i] ^ sub[n-i];
         }
 
-        for(int i = n-1;i>=0;i--){
-            maximumXor.push_back(cumulativeXor ^ maxValue);
-            cumulativeXor ^=nums[i];
-        }
-
-        return maximumXor;
+        return sub;
+        
     }
 };

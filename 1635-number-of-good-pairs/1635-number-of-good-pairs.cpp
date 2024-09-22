@@ -1,11 +1,22 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        int arr[101] = {0};
-        int result = 0;
+        unordered_map<int,int> count;
+        int ans = 0;
+
         for(int i = 0;i<nums.size();i++){
-            result += arr[nums[i]]++;
+            count[nums[i]]++;
         }
-        return result;
+        
+        for(auto it: count){
+            int pairs = 0;
+            if(it.second > 1){
+                int n = it.second;
+                pairs = n*(n-1)/2;
+            }
+            ans += pairs;
+        }
+
+        return ans;
     }
 };

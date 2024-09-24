@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0169-majority-element](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |

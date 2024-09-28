@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
 | [1635-number-of-good-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1635-number-of-good-pairs) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0792-binary-search) |
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
 | ------- |

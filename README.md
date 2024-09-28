@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
 | [1635-number-of-good-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1635-number-of-good-pairs) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [0792-binary-search](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0792-binary-search) |
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |

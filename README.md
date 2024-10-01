@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0020-valid-parentheses](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0020-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->

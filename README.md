@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1635-number-of-good-pairs) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
+| [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
+| [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 ## Simulation
 |  |
 | ------- |

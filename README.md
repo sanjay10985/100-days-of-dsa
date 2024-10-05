@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 | [0053-maximum-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1013-fibonacci-number) |
 | [0053-maximum-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
 | ------- |

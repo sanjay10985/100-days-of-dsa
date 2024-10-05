@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0152-maximum-product-subarray) |
 | [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1635-number-of-good-pairs) |
 | [1013-fibonacci-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1013-fibonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

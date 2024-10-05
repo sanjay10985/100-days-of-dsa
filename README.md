@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 | [0053-maximum-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0152-maximum-product-subarray) |
+| [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0861-flipping-an-image) |
 | [0136-single-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
+| [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

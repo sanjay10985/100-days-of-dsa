@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [1791-richest-customer-wealth](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1791-richest-customer-wealth) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1791-richest-customer-wealth) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
 | ------- |

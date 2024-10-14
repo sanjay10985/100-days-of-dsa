@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [1791-richest-customer-wealth](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1791-richest-customer-wealth) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0141-linked-list-cycle) |
 | [0088-merge-sorted-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |

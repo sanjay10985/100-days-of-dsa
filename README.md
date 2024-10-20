@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->

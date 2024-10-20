@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -315,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1572-subrectangle-queries) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0226-invert-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0226-invert-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Linked List
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,4 +300,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
+## Graph
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->

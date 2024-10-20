@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [0526-beautiful-arrangement](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0526-beautiful-arrangement) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [1572-subrectangle-queries](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1572-subrectangle-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1791-richest-customer-wealth) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [1572-subrectangle-queries](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1572-subrectangle-queries) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1572-subrectangle-queries](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1572-subrectangle-queries) |
 ## Backtracking
 |  |
 | ------- |

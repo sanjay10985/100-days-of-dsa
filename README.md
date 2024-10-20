@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1769-get-maximum-in-generated-array](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [0526-beautiful-arrangement](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0526-beautiful-arrangement) |
+| [1677-matrix-diagonal-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1791-richest-customer-wealth) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1677-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |

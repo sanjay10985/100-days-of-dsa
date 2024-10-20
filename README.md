@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 | [2226-rings-and-rods](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2226-rings-and-rods) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0822-unique-morse-code-words) |
 | [2226-rings-and-rods](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2226-rings-and-rods) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2308-divide-array-into-equal-pairs) |
+| [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 ## Bit Manipulation
 |  |
 | ------- |

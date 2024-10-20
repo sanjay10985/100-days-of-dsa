@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1970-sorting-the-sentence](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1970-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [1970-sorting-the-sentence](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1970-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |

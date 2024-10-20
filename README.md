@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0035-search-insert-position) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->

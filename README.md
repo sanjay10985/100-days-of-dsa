@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2226-rings-and-rods) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2226-rings-and-rods) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [0526-beautiful-arrangement](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0526-beautiful-arrangement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [1242-matrix-block-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1242-matrix-block-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

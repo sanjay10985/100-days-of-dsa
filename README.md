@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
+| [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
+| [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
+| [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
+| [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
 ## Graph
 |  |
 | ------- |

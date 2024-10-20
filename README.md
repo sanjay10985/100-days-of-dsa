@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Simulation
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0152-maximum-product-subarray) |
 | [0526-beautiful-arrangement](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0526-beautiful-arrangement) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Recursion
 |  |
 | ------- |

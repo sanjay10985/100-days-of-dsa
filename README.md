@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1472-increasing-decreasing-string](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0389-find-the-difference](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1970-sorting-the-sentence](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1970-sorting-the-sentence) |
+| [0389-find-the-difference](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [1970-sorting-the-sentence](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1970-sorting-the-sentence) |
+| [0389-find-the-difference](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0645-set-mismatch) |
 | [0526-beautiful-arrangement](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0526-beautiful-arrangement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0389-find-the-difference](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |

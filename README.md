@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->

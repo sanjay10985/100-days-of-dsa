@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1572-subrectangle-queries](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1572-subrectangle-queries) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->

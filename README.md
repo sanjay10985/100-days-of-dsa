@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjay10985/100-days-of-dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/sanjay10985/100-days-of-dsa/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sanjay10985/100-days-of-dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [0149-max-points-on-a-line](https://github.com/sanjay10985/100-days-of-dsa/tree/master/0149-max-points-on-a-line) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjay10985/100-days-of-dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
